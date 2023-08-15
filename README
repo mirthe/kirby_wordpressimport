@@ -1,0 +1,1 @@
+I used the code by Sally Jenkinson from https://github.com/greywillfade/wpxml-to-kirby and added some code for my particular situation, like thumbnails, tags and dealing with conversion of Dutch characters. Hope this might be helpful for someone one day looking to move away from Wordpress to Kirby CMS. Use at your own risk. Good luck! 
